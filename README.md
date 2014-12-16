@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/SWLambda/LambdaSW.PresentationPage.png?label=ready&title=Ready)](https://waffle.io/SWLambda/LambdaSW.PresentationPage)
 ZendSkeletonApplication
 =======================
 
